@@ -91,7 +91,7 @@ render() {
                 <div className="textarea">
                 <h1 className="text-center" style={{fontWeight:'bold'}}>Puma Espuma</h1>
                 <p style={{fontWeight:'bold'}}>Personalidad:</p>  
-                Líder por naturaleza, valiente y aventurero,intrépido. 
+                Líder por naturaleza, valiente y aventurero, intrépido. 
                 <br/>
                 Le gusta hacer cosas nuevas y creativas.
                 Enfrenta con valentía al coronavirus. Sin embargo,
