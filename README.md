@@ -8,7 +8,7 @@ En nuestro caso, bajo el pilar de inclusión, quisimos abarcar a niñ@s sin acce
 
 #### Visítala
 
-[GAVapp](https://trusting-jepsen-2abf56.netlify.app/)
+[Ganémosle Al Virus](https://trusting-jepsen-2abf56.netlify.app/)
 
 ## Índice
 
