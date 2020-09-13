@@ -6,6 +6,10 @@ Esta app se enmarca en el Proyecto Empresa de Laboratoria, donde nos conectan co
 
 En nuestro caso, bajo el pilar de inclusión, quisimos abarcar a niñ@s sin acceso a internet o a dispositivos móviles, por eso Ganémosle Al Virus es una PWA. En cuanto al pilar de la gamificación, decidimos elaborar un juego en la plataforma Scratch dentro de la aplicación misma, donde el/la niñ@ puede informarse y aprender mientras juega.
 
+#### Visítala
+
+[GAVapp](https://trusting-jepsen-2abf56.netlify.app/)
+
 ## Índice
 
 * [1. Flujo del proyecto](#1-Flujo-del-proyecto)
